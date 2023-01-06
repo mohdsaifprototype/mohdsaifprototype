@@ -8,7 +8,7 @@ I've been learning to code for 3 years and have been passionate about programmin
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://mohdsaifprototype.blogspot.com/)
-* ✉️  You can contact me at [freefire4fantasy2gaming+github@gamil.com](mailto:freefire4fantasy2gaming+github@gamil.com)
+* ✉️  You can contact me at [freefire4fantasy2gaming+github@gmail.com](mailto:freefire4fantasy2gaming+github@gmail.com)
 * 🚀  I'm currently working on [My blog](http://mohdsaifprototype.blogspot.com/)
 * 🧠  I'm learning Web Development and Java
 * 🤝  I'm open to collaborating on Website development
