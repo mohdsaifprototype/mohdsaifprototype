@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 A student of BCA
 ----------------
 
-I've been learning to code for 3 years and have been passionate about programming in computer science and excited to learn AI in the near future...
+I've been learning to code since 2018 and have been passionate about programming in computer science and excited to learn AI in the near future...
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [MyPortfolio](http://mohdsaifprototype.blogspot.com/)
